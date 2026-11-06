@@ -1,37 +1,29 @@
-# 24/ENG/035
-# 24/ENG/042
-# 24/ENG/043
+# Railway Ticket Booking System
 
-CO2210 – Programming Quest 03
-
-This is a simple console-based Railway Booking Management System developed using Java.
+## Overview
+A console-based railway ticket booking application developed using Java as part of the CO2210 Object-Oriented Programming coursework.
 
 ## Features
-- View train timetables
-- Check available seats
-- Make new bookings (maximum 4 seats)
-- Search booking details
-- Modify existing bookings
-- Cancel bookings
-- View bookings by route and train
-- Save booking details using CSV files
+- Railway ticket booking
+- Train and seat management
+- Console-based user interaction
+- Object-oriented program structure
+
+## Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+- Git and GitHub
 
 ## How to Run
+1. Clone or download the repository.
+2. Open the project in VS Code or another Java IDE.
+3. Compile the Java source files.
+4. Run the application's main class.
+5. Follow the instructions displayed in the console.
 
-1. Open the project folder in VS Code.
-2. Open the terminal.
-3. Compile the Java files:
+## Academic Information
+**Module:** CO2210 – Object-Oriented Programming
 
-   `javac -d out src/*.java`
+**Project:** Quest 03 – Console-Based Railway Ticket Booking System
 
-4. Run the program:
-
-   `java -cp out Main`
-
-Alternatively, run `run.bat` on Windows.
-
-## Project Files
-- `src/` – Java source code
-- `data/trains.csv` – Train timetable details
-- `data/bookings.csv` – Booking records
-- `diagram/` – UML class diagram
+**Purpose:** University coursework and Java OOP practice.
