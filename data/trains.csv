@@ -1,0 +1,7 @@
+trainId,name,route,from,to,departure,arrival,capacity,serviceDays
+4021,Yal Devi,Colombo - Kankesanthurai,Colombo Fort,Kankesanthurai,05:45,13:45,48,Daily
+4022,Yal Devi,Colombo - Kankesanthurai,Kankesanthurai,Colombo Fort,14:00,22:00,48,Daily
+8040,Ruhunu Kumari,Colombo - Galle,Colombo Fort,Galle,06:30,08:45,48,Daily
+8039,Ruhunu Kumari,Colombo - Galle,Galle,Colombo Fort,16:30,18:45,48,Daily
+1015,Udarata Manike,Colombo - Kandy,Colombo Fort,Kandy,07:00,09:45,48,Daily
+1016,Udarata Manike,Colombo - Kandy,Kandy,Colombo Fort,17:00,19:45,48,Daily

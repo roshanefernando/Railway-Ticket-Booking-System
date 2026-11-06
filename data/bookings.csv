@@ -1,0 +1,3 @@
+bookingId,trainId,travelDate,customerId,customerName,contact,seats,status
+B0001,RX201,2026-11-05,20020432056,Miss.Geethani,0778561580,4,CANCELLED
+B0002,4021,2026-11-01,200431456128,Mr.Fernando,+94745624488,1,ACTIVE
